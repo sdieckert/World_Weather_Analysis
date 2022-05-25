@@ -24,27 +24,25 @@ Use the Google Directions API to create a travel itinerary that shows the route 
 
 ### Deliverable 1:
 
-Wweather description added to the markers.
+Weather description added to the markers.
 
-Weather_Database.png
+![Weather_Database](https://user-images.githubusercontent.com/87085239/170166813-851079ca-7b15-48ca-b038-ac711bda7289.png)
 
 ### Deliverable 2:
 
 Nearest Hotel added to the dataframe.
-Vacation Search 1.png
+![Vacation Search 1](https://user-images.githubusercontent.com/87085239/170166862-85a122ec-8847-492b-a737-a7bce7f82a07.png)
 
 Nearest hotel within 5000 meters added to the marker.
-Vacation Search 2.png
+![Vacation Search 2](https://user-images.githubusercontent.com/87085239/170166893-6980b118-0223-4df7-a7cb-08dd2c2182e4.png)
 
 ### Deliverable 3:
 
 Travel Itinerary for 4 cities within the min and max temperature that the user inputted. 
-WeatherPy_travel_map.png
+![WeatherPy_travel_map](https://user-images.githubusercontent.com/87085239/170166927-de7091d6-cfae-41a4-8a45-963bba2c0e48.png)
 
 Marker created for the 4 cities identified in the itinerary. 
-WeatherPy_travel_map_markers.png
-
-
+![WeatherPy_travel_map_markers](https://user-images.githubusercontent.com/87085239/170166954-3c5609af-ffac-4d72-9a69-e09d11b9930e.png)
 
 ## Summary
 The PlanMyTrip app is now designed to allow the user to input a range of tempatures to filter cities on, select cities to create a direction map, and then output a map filtered for those cities with markers showing key attributes. 
